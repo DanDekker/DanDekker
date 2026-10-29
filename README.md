@@ -1,6 +1,6 @@
 # Dan Dekker
 
-I build first-party software involving security, low-level and embedded systems, LLM tooling, backend, and frontend. I also dabble in creative coding and game design.
+I build first-party software involving security, LLM tooling, backend, and frontend. I also dabble in creative coding and game design.
 
 ## Selected work
 
